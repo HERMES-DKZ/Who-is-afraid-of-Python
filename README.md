@@ -19,6 +19,7 @@ Die Aufgabe besteht darin, das HERMES-Logo mit Turtle grafisch umzusetzen – en
 Eurer Kreativität sind keine Grenzen gesetzt! 🧠🎨
 
 ![HERMES-Logo](hermes_logo_einfach.png)
+<br>
 ![HERMES-Logo](hermes_logo.png)
 
 ## Materialien im Repository
