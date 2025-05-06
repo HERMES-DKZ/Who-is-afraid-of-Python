@@ -1,5 +1,7 @@
 import turtle
 
+# Malen der Flagge aus Beispiel 1, nur dass zusätzlich eine for-Schleife verwendet wird, um den Code kürzer zu gestalten.
+
 t = turtle.Turtle()
 t.speed(3)
 

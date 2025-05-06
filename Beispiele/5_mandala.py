@@ -1,5 +1,7 @@
 import turtle
 
+# Malen eines Mandalas mit Hilfe einer Schleife
+
 t = turtle.Turtle()
 t.speed(0)
 

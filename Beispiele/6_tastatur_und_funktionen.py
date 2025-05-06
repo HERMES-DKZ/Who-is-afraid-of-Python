@@ -1,5 +1,7 @@
 import turtle
 
+# Erstellung einer Anwendung, die uns durch Drücken der Pfeiltasten ermöglicht, direkt zu malen.
+
 t = turtle.Turtle()
 screen = turtle.Screen()
 

@@ -73,7 +73,7 @@ text_turtle.goto(-100, 100)
 text_turtle.color("blue")
 text_turtle.write("Siehst du, so schlimm ist Python gar nicht!", font=("Arial", 14, "bold"))
 
-time.sleep(0.5)
+time.sleep(2.0)
 
 # Ersten Text löschen
 text_turtle.clear()

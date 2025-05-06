@@ -1,9 +1,12 @@
 # Who-is-afraid-of-Python 🐢 
 
 
-Willkommen zu diesem kleinen Workshop, um erste Berührungsängste mit der Programmiersprache Python zu verlieren. Dies soll mit Hilfe der Bibliothek **Turtle** geschehen. Der Workshop hat nicht den Anspruch eine vollständige Einführung in Python zu geben, sondern soll lediglich auf spielerische Art und Weise erste Erfahrungen mit Python liefern, um grundsätzlich schon einmal ein paar Zeilen Code selber zu schreiben und einige Funktionsweisen vom programmieren zu verstehen.
+Herzlich Willkommen zu diesem kleinen Coding-Sprint zu Python. Dieser soll dazu dienen, spielerisch in einer Gruppe erste Erfahrungen mit Python zu machen oder bisherige Erfahrungen auf kreative Art und Weise anzuwenden. Dazu nutzen wir die Python-Bibliothek [**Turtle**](https://docs.python.org/3/library/turtle.html), welche ideal zum programmieren lernen geeignet ist. Sie bietet jedoch ebenfalls genug Möglichkeiten, um komplexe Skripte und Anwendungen zu erstellen. 
+Im Kern handelt es sich bei Turtle, um eine Möglichkeit auf dem Bildschirm anhand von Koordinatenangaben Bilder zu malen. Über diese Angaben bewegt sich dann die Turtle, bzw. ein Stift, über den Bildschirm und malt. Die Aufgabe wird es sein, das HERMES Logo nachzumalen oder neuzugestalten. Dabei ist eurer Kreativität keine Grenze gesetzt. Ihr könnt das Logo so wie es ist malen oder neuinterpretieren, bzw. auch die Erstellung dieses Logos auf kreative Weise umsetzen. Turtle bietet, neben dem einfachen malen, viele Möglichkeiten der Kreativität freien Lauf zu lassen, sofern man sich bereits mit Python auskennt. Zum Lernen und ersten Kennenlernen ist es besser, einfache Formen, wie das Logo ohne Schriftzug zum Beispiel, zu malen.  
+![HERMES-Logo](hermes_logo.png)
+Möglichkeiten der Nutzung von Turtle findet ihr im Ordner "**Beispiele**". Darin sind kurze Skripte zu finden, die ihr als Inspiration für die Erstellung eures eigenen Kunstwerkes dienen können und Möglichkeiten von Turtle aufzeigen sollen. In der Datei **turtle_cheat_sheet.md** sind außerdem die wichtigsten Funktionen von Turtle zu finden. 
 
-Bei Turtle handelt es sich um eine Python-Bibliothek, die es uns erlaubt mit Hilfe einer Schildkröte, die eigentlich ein Stift ist, mit der Angabe von Koordinaten auf einer Leinwand zu malen. Dabei kann man sich gut an die Vorgehensweise von Python gewöhnen, indem Zeile für Zeile, Schritt für Schritt, unterschiedliche Befehle ausgeführt werden, um am Ende ein Bild oder andere Dinge zu erschaffen. In diesem Repo finden sich dazu sowohl einige Übungsaufgaben, als auch ein Cheat-Sheet mit den wichtigsten Befehlen in Turtle. Lösungen zu den Übungsaufgaben sind ebenfalls zu finden. Unabhängig von den hier aufgeführten Aufgaben könnt ihr natürlich auch selbst kreativ werden und eigene Ideen entwickeln, die sich mit Turtle umsetzen lassen.
+
 
 
 

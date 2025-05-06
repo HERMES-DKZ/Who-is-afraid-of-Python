@@ -1,6 +1,10 @@
 import turtle
 import random
 
+## Dieses Beispiel soll zeigen, was alles mit Turtle möglich ist. 
+## Es wird ein Spiel erstellt, bei dem ein einfacher Punkt gesteuert wird, der anderen auftauchenden, größeren Punkten ausweichen muss.
+
+
 # Fenster vorbereiten
 screen = turtle.Screen()
 screen.bgcolor("white")
