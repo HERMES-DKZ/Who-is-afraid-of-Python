@@ -126,5 +126,4 @@ screen.ontimer(increase_speed, 100)  # Geschwindigkeit langsam erhöhen
 screen.ontimer(generate_obstacles, 4000)  # Alle 4 Sekunden ein neues Hindernis
 screen.ontimer(remove_obstacles, 100)  # Kollisionen alle 100ms prüfen
 
-# Spiel starten
 turtle.done()
