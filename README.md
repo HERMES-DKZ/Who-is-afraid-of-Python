@@ -4,7 +4,7 @@ Herzlich Willkommen zu diesem kleinen Coding-Sprint mit Python! 🎉
 
 In diesem Workshop geht es darum, auf spielerische und kreative Weise mit der Programmiersprache Python in Berührung zu kommen – ganz unabhängig vom Erfahrungsstand. Ob du zum ersten Mal Python ausprobierst oder bereits regelmäßig damit arbeitest: Hier kannst du dich ausprobieren, experimentieren und gestalten.
 
-Wir nutzen dafür die Standardbibliothek [**Turtle**](https://docs.python.org/3/library/turtle.html). Turtle eignet sich hervorragend zum Einstieg ins Programmieren, da sie visuelles Feedback gibt – man sieht direkt, was man programmiert hat. Gleichzeitig können Fortgeschrittene mit Turtle auch sehr komplexe grafische Strukturen oder sogar Animationen erzeugen.
+Wir nutzen dafür die Standardbibliothek [**Turtle**](https://docs.python.org/3/library/turtle.html). Turtle eignet sich hervorragend zum Einstieg ins Programmieren, da sie visuelles Feedback gibt – man sieht direkt, was man programmiert hat. Gleichzeitig können Fortgeschrittene mit Turtle auch sehr komplexe grafische Strukturen oder sogar Animationen erzeugen. Um Python zu nutzen könnt ihr folgende [Onine-IDE](https://www.101computing.net/python/) verwenden oder eure lokale Instanz in einem Editor eurer Wahl. Um Python bei euch lokal zu installieren, findet ihr [hier](https://www.python.org/downloads/) die nötigen Dateien. Die Beispiele 6 und 7 sind leider nur auf einer lokalen Instanz möglich auszuführen.
 
 ## Ziel des Workshops
 
